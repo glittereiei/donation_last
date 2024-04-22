@@ -1,0 +1,8 @@
+A,000,100
+Total Amount: 100
+A,000,200
+Total Amount: 200
+A,000,300
+Total Amount: 300
+D,009,100
+Total Amount: 100
