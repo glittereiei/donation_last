@@ -1,5 +1,5 @@
-complie : main9.cpp
-	g++ main9.cpp -o dnt
+complie : main10.cpp
+	g++ main10.cpp -o dnt
 
 run : dnt
 	./dnt
